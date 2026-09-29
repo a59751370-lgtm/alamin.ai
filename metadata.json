@@ -1,0 +1,6 @@
+{
+  "name": "CyberStrike 3D: Arena Ops",
+  "description": "Fast-paced 3D sci-fi tactical shooter featuring responsive player movement, multiple weapons, smart combat AI, rich 3D arena, and dual desktop keyboard and mobile touch controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
